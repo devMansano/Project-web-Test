@@ -1,0 +1,51 @@
+body{
+
+    background-color: rgb(109, 0, 0);
+    width: 900px;
+    margin: auto;
+}
+
+
+#title, .subtitle, .post_title{
+
+color: rgba(255, 255, 255, 0.377);
+
+}
+
+.post_title{
+
+    font-size: 14px;
+    font-style: italic;
+    margin: 0;
+    margin-top: 10px;
+    box
+}
+
+.photo {
+
+    border: 5px solid;
+    border-radius: 50px;
+
+}
+
+.post {
+
+    background-color: rgb(8, 1, 100);
+    padding: 16px;
+    border: 3.5px solid rgb(70, 4, 252);
+    margin: 16px;
+    border-radius: 40px;
+}
+
+.post_Absolute{
+    margin: 0;
+    margin-bottom: 10px;
+
+
+}
+
+.post_image{
+    
+    margin-bottom: 10px;
+
+}
